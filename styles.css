@@ -1,0 +1,19 @@
+.contenedor-flex{
+    display: flex;
+   /* justify-content: space-around; Horizontal*/
+   /* align-items: flex-start; /*vertical*/
+   /* flex-direction: column-reverse;*/
+    border: solid #adff2f 5px;
+    height: 1000px;
+    
+
+    
+}
+
+.ejemplo{
+    border: solid violet 5px;
+    text-align: center;
+    min-width: 600px;
+    
+
+}
